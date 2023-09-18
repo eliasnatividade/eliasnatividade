@@ -7,5 +7,6 @@
 #####        My name is Elisa, i'm a Computer Science student based in Brazil... :D
 -----
 ##### Meu nome é Elisa, sou estudante de Ciencia da Computação... :D
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisasader&layout=compact)
         
 # See Ya!/Até mais!
