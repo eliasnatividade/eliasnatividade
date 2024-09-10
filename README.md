@@ -1,5 +1,5 @@
 # Hi/Oi!💫
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisasader&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasader&show_icons=true&bg_color=00000000)
 
 ### Technologies/Tecnologias:
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,py,react,git,html,css,)](https://skills.thijs.gg)
@@ -7,6 +7,6 @@
 #####        My name is Elisa, i'm a Computer Science student based in Brazil... :D
 -----
 ##### Meu nome é Elisa, sou estudante de Ciencia da Computação... :D
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisasader&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasader&layout=compact)
         
 # See Ya!/Até mais!
