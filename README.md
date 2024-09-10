@@ -4,9 +4,9 @@
 ### Technologies/Tecnologias:
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,py,react,git,html,css,)](https://skills.thijs.gg)
 
-#####        My name is Elisa, i'm a Computer Science student based in Brazil... :D
+#####        My name is Elias, i'm a Computer Science student based in Brazil... :D
 -----
-##### Meu nome é Elisa, sou estudante de Ciencia da Computação... :D
+##### Meu nome é Elias, sou estudante de Ciencia da Computação... :D
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasader&layout=compact)
         
 # See Ya!/Até mais!
